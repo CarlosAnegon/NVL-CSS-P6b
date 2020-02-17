@@ -1,0 +1,6 @@
+p.importante{
+	border: 2px #fabada solid;
+}
+p.importante ~ p{
+	color:red;
+}
